@@ -1,16 +1,15 @@
-# my_flutter_app
+# flutter_recipe_app
 
-A new Flutter project.
+Apps made to login, view recipe listing and recipe details.
 
-## Getting Started
+## Backend
 
-This project is a starting point for a Flutter application.
+Dummy API from https://dummyjson.com/ <br>
+-JWT Login  <br>
+-Protected Route (recipe & recipe type listing and recipe details)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/syukranDev/flutter_recipe_app/assets/51852197/d127a87e-680a-4ebe-9888-0346f1413936" width="300">
+<img src="https://github.com/syukranDev/flutter_recipe_app/assets/51852197/84254a59-4f1f-4f7a-b28d-6fb0175241d9" width="300">
+<img src="https://github.com/syukranDev/flutter_recipe_app/assets/51852197/c3757d13-89b4-48f8-83ae-f33cce4026c8" width="300">

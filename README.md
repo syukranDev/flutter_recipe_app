@@ -1,6 +1,6 @@
 # flutter_recipe_app
 
-Apps made to login, view recipe listing and recipe details.
+Apps made to exercise my long-lost flutter skill on login, api fetch, screen nav.
 
 ## Backend
 
